@@ -1,0 +1,16 @@
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\bin\Debug\net5.0\AlgorithmTestProject.exe
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\bin\Debug\net5.0\AlgorithmTestProject.deps.json
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\bin\Debug\net5.0\AlgorithmTestProject.runtimeconfig.json
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\bin\Debug\net5.0\AlgorithmTestProject.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\bin\Debug\net5.0\AlgorithmTestProject.dll
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\bin\Debug\net5.0\ref\AlgorithmTestProject.dll
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\bin\Debug\net5.0\AlgorithmTestProject.pdb
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\obj\Debug\net5.0\AlgorithmTestProject.csproj.AssemblyReference.cache
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\obj\Debug\net5.0\AlgorithmTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\obj\Debug\net5.0\AlgorithmTestProject.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\obj\Debug\net5.0\AlgorithmTestProject.AssemblyInfo.cs
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\obj\Debug\net5.0\AlgorithmTestProject.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\obj\Debug\net5.0\AlgorithmTestProject.dll
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\obj\Debug\net5.0\ref\AlgorithmTestProject.dll
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\obj\Debug\net5.0\AlgorithmTestProject.pdb
+C:\Users\vasko\source\repos\AlgorithmTestProject\AlgorithmTestProject\obj\Debug\net5.0\AlgorithmTestProject.genruntimeconfig.cache
